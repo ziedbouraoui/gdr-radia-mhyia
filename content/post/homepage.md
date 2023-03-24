@@ -1,5 +1,5 @@
 ---
-title: ":GDR RADIA MHyIA"
+title: "GDR RADIA MHyIA"
 ---
 
 L'IA hybride englobe de manière générale toutes les approches qui combinent plusieurs méthodes d'IA, qu'elles soient symboliques ou numériques, qualitatives, semi-qualitatives ou quantitatives.
