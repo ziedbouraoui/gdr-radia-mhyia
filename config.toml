@@ -1,4 +1,4 @@
-baseURL = 'https://www.cril.univ-artois.fr/gdr-radia-mhyia/'
+baseURL = 'https://ziedbouraoui.github.io/gdr-radia-mhyia/'
 languageCode = 'en-us'
 title = 'GDR RADIA MHyIA'
 paginate = 3
